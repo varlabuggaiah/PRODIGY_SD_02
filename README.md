@@ -1,6 +1,6 @@
 # Guess the Number GUI
 
-A fun and interactive "Guess the Number" game built with Python and Tkinter. This project was completed as Task-02 for the Prodigy InfoTech internship.
+A fun and interactive "Guess the Number" game built with Python and Tkinter.
 
 ## Features
 
